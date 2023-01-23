@@ -9,11 +9,11 @@ This is a program to generate gif images given a path with images.
 1. Go to the path where the ``gif-generator.exe`` or ``gif-generator.py`` is stored.
 2. Open ``cmd`` and go to the ``gif-generator.exe`` folder.
 3. Use these commands to run ``gif-generator.exe``.
-4. C:\path_to_app\>gif-generator.exe -n <file_name> -p <path> -f <fps>
+4. ``C:\path_to_app\>gif-generator.exe -n <file_name> -p <path> -f <fps>``
 5. Profit.
 
-* C:\gif-generator>gif-generator.exe -n pixelspatterns -p "C:\Users\user\Downloads\images" -f 5
-* C:\gif-generator>python gif-generator.py -n pixelspatterns -p "C:\Users\user\Downloads\images" -f 5
+* ``C:\gif-generator>gif-generator.exe -n pixelspatterns -p "C:\Users\user\Downloads\images" -f 5``
+* ``C:\gif-generator>python gif-generator.py -n pixelspatterns -p "C:\Users\user\Downloads\images" -f 5``
 
 ![example](pixelspatterns.gif)
 
