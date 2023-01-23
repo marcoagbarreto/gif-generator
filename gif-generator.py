@@ -38,7 +38,8 @@ def parse_args(argv):
     if arg_fps:
         print('fps:', arg_fps)
     else:
-        print('fps:', default_fps + '*default')
+        arg_fps = default_fps
+        print('fps:', default_fps, '*default')
 
     return arg_file_name, arg_path, int(arg_fps)
 
