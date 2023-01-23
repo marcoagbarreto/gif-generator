@@ -34,7 +34,7 @@ dependencies:
 or [download and extract the zip](https://github.com/marcoagbarreto/gif-generator/archive/main.zip) into your project folder.
 
 ## Known limitations:
-* If running with python and you are on windows, you need to add gifsicle to your environment variables for pygifsicle to work.
+* If running with python, and you are on Windows, you need to add gifsicle to your environment variables for pygifsicle to work.
   * Example: Path = C:\Program Files\gifsicle 
   * [Video](https://www.youtube.com/watch?v=5gdhQyP9Eog&t=125s)
   * https://www.lcdf.org/gifsicle/ 
