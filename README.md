@@ -27,8 +27,8 @@ dependencies:
 
     import sys
     import getopt
-    import imageio
-    import glob
+    import imageio.v2 as imageio
+    import os
     from pygifsicle import optimize
 
 or [download and extract the zip](https://github.com/marcoagbarreto/gif-generator/archive/main.zip) into your project folder.
